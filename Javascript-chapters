@@ -1,0 +1,5 @@
+console.log("JavaScript chal gaya!");
+
+function showMessage() {
+    alert("Hello! Aapne button click kiya.");
+}
