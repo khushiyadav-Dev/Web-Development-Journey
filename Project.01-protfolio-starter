@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Profile Card</title>
+    <style>
+        .card {
+            border: 2px solid #333;
+            width: 250px;
+            padding: 20px;
+            text-align: center;
+            border-radius: 10px;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>Khushi Yadav</h1>
+        <p>Aspiring AI/ML Engineer</p>
+        <p>Student at MGIMT, Lucknow</p>
+    </div>
+
+</body>
+</html>
