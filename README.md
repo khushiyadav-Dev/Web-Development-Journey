@@ -1,4 +1,3 @@
-# Web-Development-Journey
 <h1 align="center"> 🚀 Web Development Journey </h1>
 
 <!-- Badges Section -->
